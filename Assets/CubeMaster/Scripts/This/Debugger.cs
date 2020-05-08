@@ -20,7 +20,7 @@ namespace CubeMaster {
 			GUILayout.Space(20);
 			GUILayout.BeginVertical();
 			GUILayout.Space(Screen.height - 200);
-			GUILayout.BeginVertical("Tips");
+			GUILayout.BeginVertical("Box");
 			GUILayout.Label("1-9: Select block");
 			GUILayout.Label("RMB: Place block");
 			GUILayout.Label("LMB: Remove block");

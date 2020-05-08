@@ -1,0 +1,97 @@
+Initialize engine version: 5.6.0p4 (396ab58c4e90)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x134d)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+    Driver:   22.21.13.8569
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\bxh12\Desktop\CubeMaster\CubeMaster\Run_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\bxh12\Desktop\CubeMaster\CubeMaster\Run_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\bxh12\Desktop\CubeMaster\CubeMaster\Run_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\bxh12\Desktop\CubeMaster\CubeMaster\Run_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\bxh12\Desktop\CubeMaster\CubeMaster\Run_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\bxh12\Desktop\CubeMaster\CubeMaster\Run_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\bxh12\Desktop\CubeMaster\CubeMaster\Run_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\bxh12\Desktop\CubeMaster\CubeMaster\Run_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\bxh12\Desktop\CubeMaster\CubeMaster\Run_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\bxh12\Desktop\CubeMaster\CubeMaster\Run_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\bxh12\Desktop\CubeMaster\CubeMaster\Run_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\bxh12\Desktop\CubeMaster\CubeMaster\Run_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.034 seconds
+Platform assembly: C:\Users\bxh12\Desktop\CubeMaster\CubeMaster\Run_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\bxh12\Desktop\CubeMaster\CubeMaster\Run_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.192700 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 29a4 -> priority: 1 
+  Thread -> id: 2b34 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.956900 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 368.
+Total: 0.245500 ms (FindLiveObjects: 0.031800 ms CreateObjectMapping: 0.017600 ms MarkObjects: 0.180100 ms  DeleteObjects: 0.015000 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.779200 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 335.
+Total: 0.245800 ms (FindLiveObjects: 0.030500 ms CreateObjectMapping: 0.020700 ms MarkObjects: 0.175700 ms  DeleteObjects: 0.018100 ms)
+
+The referenced script on this Behaviour (Game Object 'Engine') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.372800 ms
+CubeMaster: CameraEventSender.Range must be greater than 0. Setting Range to 5.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 23584.
+Total: 11.836901 ms (FindLiveObjects: 1.415300 ms CreateObjectMapping: 1.635500 ms MarkObjects: 8.729300 ms  DeleteObjects: 0.056000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 23585.
+Total: 11.382900 ms (FindLiveObjects: 1.740400 ms CreateObjectMapping: 0.861900 ms MarkObjects: 8.740499 ms  DeleteObjects: 0.039000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 23584.
+Total: 13.444300 ms (FindLiveObjects: 1.288600 ms CreateObjectMapping: 0.782600 ms MarkObjects: 11.249201 ms  DeleteObjects: 0.122100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 23584.
+Total: 12.242000 ms (FindLiveObjects: 1.205700 ms CreateObjectMapping: 0.841000 ms MarkObjects: 10.135700 ms  DeleteObjects: 0.059000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 23584.
+Total: 14.073000 ms (FindLiveObjects: 1.414700 ms CreateObjectMapping: 0.843800 ms MarkObjects: 11.771600 ms  DeleteObjects: 0.042300 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 23584.
+Total: 12.012899 ms (FindLiveObjects: 1.290700 ms CreateObjectMapping: 0.760900 ms MarkObjects: 9.921300 ms  DeleteObjects: 0.039500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 23583.
+Total: 12.598400 ms (FindLiveObjects: 1.339300 ms CreateObjectMapping: 0.826400 ms MarkObjects: 10.300800 ms  DeleteObjects: 0.129800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 23584.
+Total: 13.367000 ms (FindLiveObjects: 1.611800 ms CreateObjectMapping: 0.810700 ms MarkObjects: 10.902600 ms  DeleteObjects: 0.041200 ms)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1951)
+
